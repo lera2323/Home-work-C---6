@@ -1,0 +1,15 @@
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.csproj.AssemblyReference.cache
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.AssemblyInfoInputs.cache
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.AssemblyInfo.cs
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.csproj.CoreCompileInputs.cache
+/Users/mas/home work C# 6/bin/Debug/net6.0/home work C# 6
+/Users/mas/home work C# 6/bin/Debug/net6.0/home work C# 6.deps.json
+/Users/mas/home work C# 6/bin/Debug/net6.0/home work C# 6.runtimeconfig.json
+/Users/mas/home work C# 6/bin/Debug/net6.0/home work C# 6.dll
+/Users/mas/home work C# 6/bin/Debug/net6.0/home work C# 6.pdb
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.dll
+/Users/mas/home work C# 6/obj/Debug/net6.0/refint/home work C# 6.dll
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.pdb
+/Users/mas/home work C# 6/obj/Debug/net6.0/home work C# 6.genruntimeconfig.cache
+/Users/mas/home work C# 6/obj/Debug/net6.0/ref/home work C# 6.dll
